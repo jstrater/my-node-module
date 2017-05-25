@@ -1,0 +1,16 @@
+{
+  "name": "my-node-module",
+  "version": "1.0.0",
+  "description": "A dummy module to demonstrate shared libraries in GR services",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jstrater/my-node-module.git"
+  },
+  "author": "Josh Strater",
+  "license": "ISC",
+  "homepage": "https://github.com/jstrater/my-node-module"
+}
